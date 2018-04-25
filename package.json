@@ -1,0 +1,26 @@
+{
+  "name": "simplechatapp",
+  "version": "1.0.0",
+  "description": "Simple chat app built with node.js and socket.io",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nodemon": "^1.14.3",
+    "socket.io": "^2.0.4",
+    "body-parser": "latest",
+    "engine.io": "latest",
+    "express-session": "latest",
+    "mongodb": "^3.0.7",
+    "mongoose": "latest",
+    "morgan": "latest",
+    "mpromise": "latest",
+    "socket.io-adapter": "latest",
+    "socket.io-client": "latest",
+    "socket.io-parser": "latest"
+  }
+}
