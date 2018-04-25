@@ -1,7 +1,13 @@
-Simple App Chat
+Simple  Chat
 ===================
 
+i use NodeJS-MongoDB-express-ejs in this App
 
-Hey! Here is my first application using node.js (express) and socket.io. It is a simple **chat app**. 
+for test this app u should
 
-You can read the medium blog post to follow the explanations : https://medium.com/@noufel.gouirhate/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088
+		--first download and Install Nodejs
+		--then download and Install MongoDB 
+		--run  'npm install' 
+    --then enter 'npm run start'
+
+in port :3000 its serve now ,,,.
